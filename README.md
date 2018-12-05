@@ -4,6 +4,8 @@ The expected output is a sorted list which excludes the numbers from excluded li
 
 Example:-
 
-Includes: 5-125 
-Excludes: 50-80 
-Expected Output: 5-49, 81-125 
+Includes: 5-125
+
+Excludes: 50-80
+
+Expected Output: 5-49, 81-125
