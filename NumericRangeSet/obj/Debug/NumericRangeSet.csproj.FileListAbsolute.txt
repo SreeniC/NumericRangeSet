@@ -1,0 +1,5 @@
+c:\users\win\documents\visual studio 2012\Projects\NumericRangeSet\NumericRangeSet\bin\Debug\NumericRangeSet.exe.config
+c:\users\win\documents\visual studio 2012\Projects\NumericRangeSet\NumericRangeSet\bin\Debug\NumericRangeSet.exe
+c:\users\win\documents\visual studio 2012\Projects\NumericRangeSet\NumericRangeSet\bin\Debug\NumericRangeSet.pdb
+c:\users\win\documents\visual studio 2012\Projects\NumericRangeSet\NumericRangeSet\obj\Debug\NumericRangeSet.exe
+c:\users\win\documents\visual studio 2012\Projects\NumericRangeSet\NumericRangeSet\obj\Debug\NumericRangeSet.pdb
